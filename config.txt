@@ -1,4 +1,4 @@
 username = vukasin
-usermail = milos
+
 
 Vukasine gotov si u fudbalu!
